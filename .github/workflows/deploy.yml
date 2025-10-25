@@ -1,0 +1,40 @@
+name: Deploy Flutter Web to GitHub Pages
+
+on:
+  # This "workflow" (action) runs on any push to the "main" branch.
+  push:
+    branches:
+      - main
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: 'stable'
+
+      - name: Install Dependencies
+        run: flutter pub get
+
+      - name: Build Flutter Web
+        # 
+        # This line is configured for your "mock_test_app" repository.
+        # It MUST match your repository name exactly.
+        # 
+        run: flutter build web --release --base-href /mock_test_app/
+        
+      - name: Deploy to GitHub Pages
+        # This action automatically pushes your build to a "gh-pages" branch
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # This is the directory that the build command just created
+          publish_dir: ./build/web
+
