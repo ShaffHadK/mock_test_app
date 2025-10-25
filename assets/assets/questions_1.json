@@ -1,0 +1,370 @@
+[
+  {
+    "sectionTitle": "Multiple-Choice, Choose Single Answer",
+    "questions": [
+      {
+        "id": "q_sc_1",
+        "readingPassage": "Sometimes too much of a good thing can become a very bad thing indeed. In an earnest attempt to consume a healthy diet, dietary supplement enthusiasts have been known to overdose. Vitamin C, for example, long thought to help people ward off cold viruses, is currently being studied for its possible role in warding off cancer and other diseases that cause tissue degeneration. Unfortunately, an overdose of vitamin C – more than 10,000 mg. – on a daily basis can cause nausea and diarrhea. Calcium supplements, commonly taken by women, are helpful in warding off osteoporosis. More than just a few grams a day, however, can lead to stomach upset and even kidney or bladder stones. Niacin, proven useful in reducing cholesterol levels, can be dangerous in large doses to those who suffer from heart problems, asthma, or ulcers.",
+        "text": "**What point is the writer making in this paragraph?**",
+        "questionType": "singleAnswer",
+        "options": [
+          { "text": "Supplements taken in excess can be a bad thing indeed."},
+          { "text": "Dietary supplement enthusiasts have been known to overdose."},
+          { "text": "vitamins can cause nausea, diarrhea, and kidney or bladder stones."},
+          { "text": "people who take supplements are preoccupied with their health."}
+        ],
+        "correctOptionIndex": 0
+      },
+	  {
+        "id": "q_sc_2",
+        "readingPassage": "Most children have an interest in learning to play a musical instrument at one point or another during their growing-up years. Parents need to take advantage of that urge to play when it appears. Some very small children become intrigued with music because they see their parents or their older siblings play. The Suzuki method of instruction capitalizes on that early willingness to learn by involving the parent and the child in the child’s instructions. Elementary-aged youngsters often are exposed to stringed instruments or band instruments in their school music classes. Because kids like to dowhat other kids do, parents who are not musicians themselves can take advantage of both instruction and enthusiasm. It is at the middle school level, however, that peer pressure can really work to the benefit of parents who want to hear the sound of music around the house.",
+        "text": "**Which of the following most accurately summarizes the opinion of the author in the text?**",
+        "questionType": "singleAnswer",
+        "options": [
+          { "text": "most children have an interest in learning to play a musical instrument during their growing-up years." },
+          { "text": "some very small children become intrigued with music because they see their parents or siblings play." },
+          { "text": "at various points, parents can take advantage of their children’s desire to play a musical instrument." },
+          { "text": "middle-school children take delight at selecting and learning to play an instrument along with their friends." }
+        ],
+        "correctOptionIndex": 2
+      },
+	  {
+        "id": "q_sc_3",
+        "readingPassage": "The railroad was not the first institution to impose regularity on society or to draw attention to the importance of precise timekeeping. For as long as merchants have set out their wares at daybreak and communal festivities have been celebrated, people have been in rough agreement with their neighbors as to the time of day. The value of this tradition is today more apparent than ever. Were it not for public acceptance of a single yardstick of time, social life would be unbearably chaotic: the massive daily transfers of goods, services, and information would proceed in fits and starts; the very fabric of modern society would begin to unravel.",
+        "text": "**Which of the following most accurately summarizes the opinion of the author in the text?**",
+        "questionType": "singleAnswer",
+        "options": [
+          { "text": "In modern society, we must make more time for our neighbors." },
+          { "text": "An accepted way of measuring time is essential for the smooth functioning of society." },
+          { "text": "The traditions of society are timeless." },
+          { "text": "Society judges people by the times at which they conduct certain activities." }
+        ],
+        "correctOptionIndex": 1
+      },
+	  {
+        "id": "q_sc_4",
+        "readingPassage": "So far, we have been looking at the work of humanist historians in the Renaissance and the new way in which they approached their subject. Not only did they use close reading of ancient texts, as you would expect, but they also did a lot of research in the archives. That is, they didn’t just read the historians that came before them, they looked for real documents. For example, they studied the records of cases that went to court, official letters that had survived, and so on to get a fuller picture of how people really lived and went about their business.\n\nThese same techniques of historical research were used in what we can call “legal humanism”.The idea here was to get as accurate a picture as possible of the law and its practice in ancient, especially Roman, times. Legal historians did this with a view to refining the laws and applying them to the present historical situation. Legal scholarship’s original desire to recover and purify the heritage of the ancient world later came to be distorted by political views, but even here, in the 16th century, such intense study could lead to unexpected conclusions. For example, in France, inquiries meant to uncover and apply the legal wisdom of the Romans ended by uncovering a Roman law so pure that it was totally alien. This law, in fact, belonged to the past and to a different society and was therefore unusable.",
+        "text": "**What was the ultimate aim of legal scholarship?**",
+        "questionType": "singleAnswer",
+        "options": [
+          { "text": "To purify the ancient legal system. " },
+          { "text": "To promote humanism in general." },
+          { "text": "To apply Roman law to their own society." },
+          { "text": "To perfect techniques of historical research." }
+        ],
+        "correctOptionIndex": 2
+      },
+	  {
+        "id": "q_sc_5",
+        "readingPassage": "When it comes to an organ of such complexity as the eye, it is not difficult to understand why some people cannot accept that such perfection was arrived at by the trial and error, or gradual development, of natural selection. Yet people thought the Earth stood still until Copernicus told them otherwise. In the same way, it shouldn’t be hard to believe that a complex eye could be formed by natural selection if it can be shown that there were numerous stages from a simple and imperfect eye to a complex and perfect one, with each development being useful to its possessor and the variations being inherited.\n\nHowever, the search for the stages through which an organ in any one species has come to perfection, which ideally would mean looking exclusively at its past generations, is rarely possible. Therefore, researchers are forced to examine species and genera of the same group to discover what stages or gradual developments are possible. Even the state of development of the same organ in a different class of creature may throw light on the steps taken towards perfection.\n\nSome people object that in order for the eye to modify and still remain a useful instrument to its owner, many changes would have had to take place simultaneously. However, it is not necessary to suppose this if the modifications were extremely slight and gradual.",
+        "text": "**Why are researchers forced to look outside a specific species for clues to gradual development?**",
+        "questionType": "singleAnswer",
+        "options": [
+          { "text": "Because the eye is so complex and perfect already." },
+          { "text": "Because evidence of its ancestors is almost impossible to find." },
+          { "text": "Because the eye cannot change without losing its usefulness."},
+          { "text": "Because other species have more complex eyes." }
+        ],
+        "correctOptionIndex": 1
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Multiple-Choice, Choose Multiple Answers",
+    "questions": [
+      {
+        "id": "q1_mc",
+        "readingPassage": "A Xhosa bride in southern Africa, in contrast to her western counterpart, is expected to show both reluctance and sadness during her wedding – any signs of joy are considered inappropriate. She may even cry, and not without reason, because she is leaving her own family and relatives to live among a group of strangers where she will have to be careful of what she says and does.\n\nFor example, a new bride is not allowed to walk across the central meeting place in the middle of the kraal, or village, nor the cattle pen. And when she wishes to go from house to house, she must take the back way. To show respect for her husband’s senior relatives, she has to avoid using the names of senior male relatives or even words similar to them, which can lead to some complex paraphrases. Furthermore, she is not allowed to use the personal names of her mother-in-law, nor those of her husband’s aunts and elder sisters. Her first priority is the care of her husband, which means doing most of the heavy domestic work. Further constraints are having to wear a handkerchief low over her forehead, never showing her bare head to her husband’s relatives, not being allowed to drink milk from the homestead herd, and not touching the drinking utensils.\n\nHowever, these rules become less strict as time passes. The handkerchief is eventually removed, gifts are exchanged, and family relationships become a bit more relaxed. Finally, there is a ritual killing of a cow and the bride is allowed to drink the milk of the homestead. However, once she has done this, she can no longer drink the milk of her father’s house, symbolizing her final separation from her family.",
+        "text": "**According to the text, which of the following behaviors are expected of a new Xhosa bride?**",
+        "questionType": "multipleAnswers",
+        "options": [
+          { "text": "She is not allowed to drink milk from her father’s cows." },
+          { "text": "She cannot use the name of any of her husband’s male relatives." },
+          { "text": "At her wedding she is meant to appear unwilling." },
+          { "text": "She is not allowed to enter her new home by the front entrance." },
+		  { "text": " She must wear a head scarf when meeting her husband’s relatives." },
+		  { "text": " She is not allowed to touch plates in the family home." },
+		  { "text": "She must avoid using the names of some of her husband’s female relatives." }
+        ],
+        "correctOptionIndexes": [2,4,6]
+      },
+      {
+        "id": "q2_mc",
+        "readingPassage": "There are perhaps three ways of looking at furniture: some people see it as purely functional and useful, and don’t bother themselves with aesthetics; others see it as essential to civilized living and concern themselves with design and how the furniture will look in a room – in other words, function combined with aesthetics; and yet others see furniture as a form of art.\n\nIn the past, designers of furniture usually worked for royalty, the nobility, landowners and richmerchants and so were not constrained by the limits of space, economy, or even practicality that inhibit the contemporary designer. Indeed, function was not the first consideration and interiors did not always have to be practical. In the Renaissance, for example, fine furniture and interiors were designed to show off not only the riches of the owners, but their learning, wisdom and good taste as well. No doubt, this attitude still exists among a number of the wealthy.\n\nApart from a brief period in the 20h century when furniture designers mistook themselves for artists and sculptors, producing, say, chairs that were nice to look at, but impossible to sit on comfortably, modern designers have, for the most part, come to terms with the functional aspect of furniture. These days, a well-designed interior must be practical and exclude what is unnecessary. Limited space must be used imaginatively, and a sense of space and clarity is needed as a setting for efficient living. Therefore, in the modern home, furniture should fulfil a specific purpose, and need as little care and attention as possible. In addition to this, costs must be kept to a minimum because, these days, there are many luxuries competing for our attention. Function and economy, therefore, are of the utmost importance.",
+        "text": "**According to the text, how does modern furniture design differ from that of the past?**",
+        "questionType": "multipleAnswers",
+        "options": [
+          { "text": "Practicality and economy are the most important considerations." },
+          { "text": "Designers are only employed by the wealthy." },
+          { "text": "Designers are primarily concerned with aesthetic appeal." },
+          { "text": "Modern furniture should need little looking after." },
+		  { "text": "Making the best use of available space is important." },
+		  { "text": "Furniture should be as decorative as possible." }
+        ],
+        "correctOptionIndexes": [0,3,4]
+      },
+	  {
+        "id": "q3_mc",
+        "readingPassage": "Before Luke Howard invented his system for classifying clouds, they had simply been described by their shape and color as each person saw them: they were too changeable and moved too quickly for anyone to think they could be classified in any useful way. Howard had been interested in clouds – and meteorology in general – ever since he was a small boy, and for thirty years kept a record of his meteorological observations. In 1802-1803, he produced a paper in which he named the clouds, or, to be more precise, classified them, claiming that it was possible to identify several simple categories within the various and ra practice for the classihcation of plant and animal species, they were given Latin names,which meant that the system could be understood throughout Europe.\n\nHoward believed that all clouds belonged to three distinct groups: cumulus, stratus and cirrus. He added a fourth category, nimbus, to describe a cloud “in the act of condensation into rain, hail or snow”. It is by observing how clouds change color and shape that weather can be predicted, and as long as the first three types of cloud keep their normal shape there won’t be any rain.\n\nThis system came to be used across the European continent, and in the 20h century his cloud classification system was adopted, with some additions, as the international standard, but that was not his only contribution to meteorology. He wrote papers on barometers and theories of rain, and what is probably the first textbook on weather. He can also be considered to be the father of what is now called “urban climatology” Howard had realized that cities could significantly alter meteorological elements One of these he called “city fog”. Nowadays we call it “smog”, a combination of smoke and fog.",
+        "text": "**Which of the following achievements can be attributed to Luke Howard?**",
+        "questionType": "multipleAnswers",
+        "options": [
+          { "text": "He wrote a book about barometers." },
+          { "text": " He was the first to notice the different shapes and colors of clouds." },
+          { "text": "He was the first to identify and classify different cloud forms." },
+          { "text": "His classification system became used all over the world." },
+		  { "text": "He was the first to use the word “smog”" },
+		  { "text": "He realized that cities could have an effect on the weather." }
+        ],
+        "correctOptionIndexes": [2,3,5]
+      },
+	  {
+        "id": "q4_mc",
+        "readingPassage": "When does a hobby or pastime, or whatever you want to call what you do in your leisure time for rest a pastime and become something a bit more serious, such as something you realize can be turned into financial gain, or an obsession that can mess up your life as much as any other addiction? The whole point of them, of course, is that they are done out of personal interest and for pleasure and enjoyment, not for financial gain.\n\nMost people’s hobbies turn out to be easy and stress-free pastimes such as collecting things, making things, sports, playing a musical instrument, reading, and so on. And – so it is claimed – they are good for you, too. Pursuing a hobby can have calming and helpful beneficial effects. For a start, it can take your mind off your problems, and the more interests you have, the more you enjoy life.\n\nOne way in which the subject becomes a little bit serious is when you are applying for a job and writing out your curriculum vitae, or résumé. There’s invariably a section which asks what your outside interests are, and because getting a job is a serious business, and you want to impress your prospective employers, you might find yourself claiming that you like nothing better at weekends than being flown by helicopter to the top of the Alps and then making your way home by snowboard and hang-glider. Perhaps people find themselves doing this because they feel that applying for a job and coming across well at interview is a test of character and being an aficionado of extreme sports is a lot cooler than stamp collecting. But why turn what is supposed to be calming and relaxing into a cause for anxiety?",
+        "text": "**Which of the following statements are true about hobbies and pastimes, according to the text? **",
+        "questionType": "multipleAnswers",
+        "options": [
+          { "text": "They are often used as therapy." },
+          { "text": "They are not pursued for economic profit." },
+          { "text": "Your leisure time activities reveal your true character." },
+          { "text": "Many people do extreme sports because it’s cool." },
+		  { "text": "Most people’s hobbies are simple and undemanding." }
+        ],
+        "correctOptionIndexes": [1,4]
+      },
+	  {
+        "id": "q5_mc",
+        "readingPassage": "Many countries around the world celebrate Earth Day. It is a day that is meant to raise awareness and appreciation about the Earth's natural environment. The first Earth Day was held in the USA. It was founded by United States Senator Gaylord Nelson as an environmental teach-in - a sort of general educational forum or seminar. That was on April 22, 1970. While this first Earth Day was focused on the United States, an organization launched by Denis Hayes, who was the original national coordinator in 1970, took it international in 1990 and organized events in 141 nations. Earth Day is now coordinated globally by the Earth Day Network, and is celebrated in more than 175 countries every year. Numerous communities celebrate Earth Week, an entire week of activities focused on environmental issues. In 2009, the United Nations designated April 22 International MotherEarth Day.",
+        "text": "**According to the paragraph, which of the following statements are correct?**",
+        "questionType": "multipleAnswers",
+        "options": [
+          { "text": "Earth Day is currently harmonized globally by the Earth Day Network." },
+          { "text": "Nelson took earth day to international level." },
+          { "text": "Earth Week is focused on global warming." },
+          { "text": "First Earth day was organized in the USA." }
+        ],
+        "correctOptionIndexes": [0,3]
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Re-order Paragraphs",
+    "questions": [
+      {
+        "id": "q1_ro",
+        "text": "The paragraphs have been placed in a random order. Restore the original order.",
+        "questionType": "reorderParagraphs",
+        "options": [
+          { "text": "Habeas corpus, a law by which a prisoner could demand to be brought before the courts and have his case heard, was a well-established right in England, but the authorities had found a number of ways of getting round its use where political prisoners were concerned." },
+          { "text": "The new act put a stop to such abuses and deprived the executive of powers it might have used to support oppressive and arbitrary government." },
+          { "text": "In 1679, what became known as the first Exclusionist Parliament passed at least one useful piece of legislation: on the day parliament was suspended, the King gave his assent to a Habeas Corpus Act." },
+          { "text": "James Harrington, the philosopher, is a good example. When his sisters applied for habeas corpus, he was taken from the Tower of London to a barren island where habeas corpus could not be imposed." }
+        ],
+        "correctOrderIndexes": [2,0,3,1]
+      },
+      {
+        "id": "q2_ro",
+        "text": "The paragraphs have been placed in a random order. Restore the original order.",
+        "questionType": "reorderParagraphs",
+        "options": [
+          { "text": "However, the potential for crime is enormous. Some experts believe that American financialsystems are losing up to $5 billion a year to computer fraud. Once a hacker has got into the bank’s system, he or she can order it to transfer large sums of money to a foreign account." },
+          { "text": "Any computer network connected to the telephone system is vulnerable because the hacker needs only to discover the coded password in order to gain entry to the network. All it takes is intelligent guesswork, trial and error, and perseverance." },
+          { "text": "At first, this appeared to be a perfect example of electronic spying, but it turned out to be a bunch of talented computer buffs doing it for fun. If they had wanted to create real problems, they could have altered files or deleted them altogether." },
+          { "text": "A German student sitting at home at a computer terminal connected to the telephone system managed to hack into NASA’s computers and read top secret files. He and a group of other students in Hamburg had also got into about thirty other restricted computer networks." }
+        ],
+        "correctOrderIndexes":[3,2,1,0] 
+      },
+      {
+        "id": "q3_ro",
+        "text": "The paragraphs have been placed in a random order. Restore the original order.",
+        "questionType": "reorderParagraphs",
+        "options": [
+          { "text": "Between May and August 1783, two volcanic eruptions had occurred, one in Iceland and one in Japan. The northern hemisphere had been covered in a “great fog” " },
+          { "text": "A year earlier, a volcano had erupted in Indonesia, sending up vast quantities of fine volcanic dust into the atmosphere. Circling the Earth, the dust reflected sunlight back into space." },
+          { "text": "This, of course, was an extraordinary event. In fact, it is considered one of the most catastrophic global events in recorded history. But something like it had happened before, and within living memory." },
+          { "text": "The Earth literally darkened, temperatures dropped. Throughout western Europe and North America crops failed, and cattle died. A large portion of the world lay under a huge volcanic cloud." },
+		  { "text": "In the spring of 1816, the weather suddenly changed. The unseasonably warm spring turned cold and people were forced indoors by continual rain. The skies darkened and there was no summer." }
+        ],
+        "correctOrderIndexes":[4,1,3,2,0] 
+      },
+      {
+        "id": "q4_ro",
+        "text": "The paragraphs have been placed in a random order. Restore the original order.",
+        "questionType": "reorderParagraphs",
+        "options": [
+          { "text": "Only four years later did football become an official competition at the Games. At this stage it was, of course, for amateurs only." },
+          { "text": "Ironically, the first tournament was won by an amateur team from the northeast of England, who had been especially invited after the British Football Association refused to be associated with the competition" },
+          { "text": "The first international football match was played in 1872 between England and Scotland, when football was rarely played anywhere outside Great Britain" },
+          { "text": "As an alternative, Sir Thomas Lipton decided to organize an event for professionals. Often described as The First World Cup, it took place in Turin in 1909 and featured the most prestigious professional clubs from Italy, Germany and Switzerland." },
+		  { "text": "However, as football increased in popularity, it was adimitted to the Olympics in 1900 and 1904, but only as a sideshow and not in the competition for medals." }
+        ],
+        "correctOrderIndexes":[2,4,0,3,1] 
+      },
+      {
+        "id": "q5_ro",
+        "text": "Arrange the sequence of a plant's life.",
+        "questionType": "reorderParagraphs",
+        "options": [
+          { "text": "By 1817, trousers were shoe-length. Popular with the king, they became accepted as standard daywear by 1825, and were worn with a waistcoal and, by day, a frock coat, but with a tailcoat in the evening."},
+          { "text": " Jackets didn’t become fashionable for casual wear until the 1850s. The jacket was derived from the short jacket worn by boys and working men, and in the age of mass-production and ready-made suits, its simple style was casier to produce than the tailored coat." },
+          { "text": "It was George “Beau” Brummell, the champion of simple English style, who started a trend for wearing tight black trousers in the early 1800s." },
+          { "text": "The favorite patterns for trousers were strong plaids, stripes and checks. The loose straight cut came in about the 1860s, and front creases in the 1880s. By the turn of the century, they had become the common way to dress." }
+        ],
+        "correctOrderIndexes":[2,0,3,1]
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Reading: Fill in the Blanks (Drag/Drop)",
+    "questions": [
+      {
+        "id": "q_drag_1",
+        "text": "This MPhil (1) [BLANK] students from a wide variety of academic, business and political (2) [BLANK] to the traditions, methods, and state-of-the-art research that shape an advanced analysis of human society. The MPhil is an eleven-month course designed for those who wish to go on to do doctoral research or (3) [BLANK] for those who (4) [BLANK] want to improve their understanding of methodology and analysis, and attain an independent postgraduate degree in its own right.",
+        "questionType": "fillInTheBlanksDrag",
+        "options": [
+          { "text": "backgrounds" },
+          { "text": "plainly" },
+          { "text": "equally" },
+          { "text": "professions" },
+		  { "text": "introduces" },
+		  { "text": "presents" },
+		  { "text": "simply" }
+        ],
+        "correctAnswers": ["introduces", "backgrounds","equally","simply"]
+      },
+      {
+        "id": "q_drag_2",
+        "text": "The main (1) [BLANK] of advertising is to sell (2) [BLANK] by getting them known and, here, brash, sensational ideas may often serve the (3) [BLANK] But by no means is all advertising aimed at promoting a new product or even a product at all. One of the most famous posters of the 20th century (4) [BLANK] Lord Kitchener early in the 1914-18 war pointing a finger, perhaps accusingly, at the entire male military-age population of Britain.",
+        "questionType": "fillInTheBlanksDrag",
+        "options": [
+          { "text": "aim" },
+          { "text": "illustrates" },
+          { "text": "products" },
+		  { "text": "purpose" },
+		  { "text": "point" },
+		  { "text": "shows" },
+		  { "text": "produces" }
+        ],
+        "correctAnswers": ["aim","products","purpose","shows"]
+      },
+	  {
+        "id": "q_drag_3",
+        "text": "Universities are, of course, the primary centers of intellectual life in modern society. Therefore, they are a (1) [BLANK] center of criticism: criticism of society and of the dominant (2) [BLANK] in it, especially its politics, by sections of both the (3) [BLANK] and the student bodies. This critical (4) [BLANK] of the university, as the place where ideas are born and where support for criticism is (5) [BLANK] among students, who form the mass base for many protest movements, has been true for a long time and in many countries.",
+        "questionType": "fillInTheBlanksDrag",
+        "options": [
+          { "text": "semester" },
+          { "text": "revealed" },
+          { "text": "key" },
+		  { "text": "found" },
+		  { "text": "staff" },
+		  { "text": "trends" },
+		  { "text": "participation" },
+		  { "text": "role" }
+        ],
+        "correctAnswers": ["key","trends","staff","role","found"]
+      },
+	  {
+        "id": "q_drag_4",
+        "text": "When it comes to low-cost housing, architects are hardly ever (1) [BLANK]. About 98% of the market is built without architects and the result is usually rows of clones of a building, regardless of whether they are (2) [BLANK] for an area or not. Developers alone, without the (3) [BLANK] of an architect, do not see the big picture needed to make housing part of a safe, vibrant community. A little more thought could instantly improve community (4) [BLANK] as well as lead to building houses that are both comfortable and cheap. ",
+        "questionType": "fillInTheBlanksDrag",
+        "options": [
+          { "text": "useful" },
+          { "text": "safety" },
+          { "text": "relations" },
+		  { "text": "involved" },
+		  { "text": "input" },
+		  { "text": "practical" },
+		  { "text": "consultation" }
+        ],
+        "correctAnswers": ["involved","practical","input","safety"]
+      },
+	  {
+        "id": "q_drag_5",
+        "text": "You may think that the World Cup, like the Olympic Games, only occurs once every four years. It is the (1) [BLANK] rounds that take (2) [BLANK] every four years, but the competition as a whole is an ongoing (3) [BLANK], since the qualifying rounds take place over the preceding three years. The final phase of the tournament now involves thirty-two teams competing over a four-week (4) [BLANK] in a previously nominated (5) [BLANK] nation. It has become the most widely-viewed sporting event in the world.",
+        "questionType": "fillInTheBlanksDrag",
+        "options": [
+          { "text": "event" },
+          { "text": "final" },
+          { "text": "home" },
+		  { "text": "host" },
+		  { "text": "last" },
+		  { "text": "period" },
+		  { "text": "place" },
+		  { "text": "time" }
+        ],
+        "correctAnswers": ["final","place","event","period","host"]
+      }
+    ]
+  },
+  {
+    "sectionTitle": "Reading: Fill in the Blanks (Dropdown)",
+    "questions": [
+      {
+        "id": "q_drop_1",
+        "text": "The first printed books began to (1) [BLANK] during the second quarter of the 15th century. The earliest examples were put together in a number of different ways, sometimes leaving space for decorations and ornate capitals to be (2) [BLANK] by miniaturist painters, and sometimes containing handwritten text alongside printed illustrations. Most of them had texts and pictures printed (3) [BLANK] from woodblocks, which is how they got the name “block-books”. Printing was normally done on separate leaves which were then bound together in book form.\n\nThe obvious advantage of having printed text and visual images together on one sheet was quickly grasped by monks, who saw its (4) [BLANK] as a means of spreading knowledge, and as an economic and effective way to get their message across to a wide audience. The monasteries, however, by no means had a monopoly on the production and sale of woodcut printing; in fact, probably the most profitable area of European printmaking was the production of playing cards.\n\nNonetheless, the content of most surviving block-books is essentially biblical. The purpose of the illustrations was functional: to make the meaning of the stories as clear and as understandable as possible to those who were unable to read the often difficult text. It was also a result of the need to (5) [BLANK] the stories that the characters were presented in contemporary clothes and the illustrations contained details of ordinary life in the late Middle Ages.",
+        "questionType": "fillInTheBlanksDropdown",
+        "blanks": [
+          { "options": ["occur", "publish", "appear", "seem"] },
+          { "options": ["made", "printed", "copied", "added"] },
+		  { "options": ["early", "entirely", "singly", "only"] },
+		  { "options": ["potential", "possibility", "advantage", "ability"] },
+		  { "options": ["simplify", "popularize", "modernize", "improve"] }
+        ],
+        "correctAnswers": ["appear", "added", "entirely", "potential", "popularize"]
+      },
+      {
+        "id": "q_drop_2",
+        "text": "For copyright purposes, a literary, dramatic, musical or artistic work must be original and it must be set down in some (1) [BLANK] form, for example, on paper, computer disk, or on audio or video tape. It is not unusual for people to have the same idea at roughly the same time, but copyright applies in the way an idea is expressed, not in the idea itself. This is because ideas can encompass a wide range of concepts: for example, thousands of books and films have the same basic (2) [BLANK] – boy meets girl, loses girl, gets girl back, good triumphs over evil, and so on. So ideas, as opposed to the way in which they are expressed, cannot be protected under copyright law. Perhaps oddly, statistical lists and computer programs are also (3) [BLANK] as literary works and therefore come under copyright law.\n\nYou are breaking the law when you reproduce the whole or a significant part of someone else’s creation without their permission. This would include, for example, recording a CD or a video, putting on a public (4) [BLANK] of a play, making photocopies, or copying onto a computer disk. It is also a breach of the law to key copyright material into a computer without consent, as is storing it on the computer memory. This can even apply to a small part of a work if the (5) [BLANK] is considered to be essential.\n\nInfringement of copyright can be both a criminal act and a civil wrong. However, consumers who buy illegally copied materials, such as music CDs and films on DVD, for private use cannot be prosecuted, even if they know its origin.",
+        "questionType": "fillInTheBlanksDropdown",
+        "blanks": [
+          { "options": ["solid", "complete", "actual", "permanent"] },
+          { "options": ["histories", "plots", "scenes", "genres"] },
+		  { "options": ["thought", "presented", "regarded", "given"] },
+		  { "options": ["acting", "show", "performance", "display"] },
+		  { "options": ["content", "substance", "subtext", "matter"] }
+        ],
+        "correctAnswers": ["permanent", "plots", "regarded", "performance", "content"]
+      },
+	  {
+        "id": "q_drop_3",
+        "text": "In prehistoric times, Europe was (1) [BLANK] with vast primeval woods and forests, whichmust have deeply influenced the minds as well as the lives of our ancestors. In places where they had not made clearings, they must have lived in a constant half-light. As far as we know, the oak was the commonest and most (2) [BLANK] tree. We get our evidence partly from the statements of some classical writers, but more convincingly from the (3) [BLANK] of ancient villages built on wooden piles in lakes and from the oak forests which have been found embedded in peat bogs.\n\nThese bogs, which are most evident in northern Europe, but which are also found in some central and southern parts of the continent, have (4) [BLANK] the plants and trees which flourished after the end of the Ice Age. The great peat bogs of Ireland reveal that there was a time when vast woods of oak and yew covered the country, the oak growing on hills that were up to a height of four hundred feet or so above the sea, while the yew grew at higher (5) [BLANK] Ancient roadways made of oak have been found, as have, more famously,human relics.",
+        "questionType": "fillInTheBlanksDropdown",
+        "blanks": [
+          { "options": ["smothered", "covered", "overgrown", "flourishing"] },
+          { "options": ["useful", "productive", "practical", "varied"] },
+		  { "options": ["rest", "remains", "leftovers", "lack"] },
+		  { "options": ["kept", "maintained", "conserved", "preserved"] },
+		  { "options": ["levels", "piles", "degrees", "points"] }
+        ],
+        "correctAnswers": ["covered", "useful", "remains", "preserved", "levels"]
+      },
+	  {
+        "id": "q_drop_4",
+        "text": "A rule of thumb for distinguishing butterflies from moths in this country is to examine the antennae or feelers, although, when comparing Lepidoptera worldwide, this technique is not to be relied on. Generally, especially among those native to the UK, butterflies have clubbed feelers, (1) [BLANK] moths can have feelers of various kinds other than clubbed. There are moths that fly by day and the more brightly colored of them are sometimes (2) [BLANK] for butterflies, but their feelers will distinguish them. \n\nVariations within a single species of butterfly often occur, and all kinds are (3) [BLANK] to vary in their tint or markings, or sometimes both. These variations may at times be so (4) [BLANK] as to be hardly noticeable, but in a fair proportion, the variation is quite striking. In such cases, unless the difference is extreme, it is possible to track all the intermediate stages between the ordinary form of a species and its most extreme variety. The coloring on the underside of a butterfly differs from that of the upper side and matches, or (5) [BLANK] in with, its natural habitat to a remarkable degree. This is why, when they settle, you can see them with their wings positioned together upright over their back.\n\nThe number of known species of butterflies throughout the world has been put at about thirteen thousand or more, but some believe there are several thousand more species as yet undiscovered.",
+        "questionType": "fillInTheBlanksDropdown",
+        "blanks": [
+          { "options": ["nevertheless", "however", "whereas", "nontheless"] },
+          { "options": ["mistaken", "misplaced", "misled", "misunderstood"] },
+		  { "options": ["bound", "probable", "liable", "susceptible"] },
+		  { "options": ["invisible", "slight", "marginal", "unimportant"] },
+		  { "options": ["colors", "shades", "blends", "moves"] }
+        ],
+        "correctAnswers": ["whereas", "mistaken", "liable", "slight", "blends"]
+      },
+	  {
+        "id": "q_drop_5",
+        "text": "Every day, on television, on the radio, and in the newspapers, we see, hear, and read about leaders and politicians making decisions that are clearly wrong-headed and that seem to us, the horrified watchers, listeners, and readers, counter-productive. To be reasonably impartial about such blunders, we must try to put (1) [BLANK] for the moment how the decision might affect us as individuals; what we are looking for are decisions that are contrary to the interests of their makers. A glaring historical example of such stupidity would be the respective attempts of Charles XII, Napoleon Bonaparte, and Hitler to invade Russia (2) [BLANK] the disasters it brought each of their predecessors.\n\nNow, when investigating these matters we must tread carefully and remember that it is wrong to judge the past by the ideas of the present. Therefore, the disastrous (3) [BLANK] made in the past must have been seen at the time by contemporaries to be counterproductive, not just with the (4) [BLANK] of experience. Again, we must check to see if there were any other (5) [BLANK] of action that could have been taken and, if so, why they were not.",
+        "questionType": "fillInTheBlanksDropdown",
+        "blanks": [
+          { "options": ["away", "aback", "aside", "behind"] },
+          { "options": ["although", "despite", "regardless", "whatever"] },
+		  { "options": ["actions", "decisions", "practices", "effects"] },
+		  { "options": ["benefits", "aim", "interest", "clarity"] },
+		  { "options": ["ways", "means", "possibilities", "courses"] }
+        ],
+        "correctAnswers": ["aside", "despite", "decisions", "benefits", "courses"]
+      }
+    ]
+  }
+]
+
